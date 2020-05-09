@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ClassroomRoll {
 
-	public void main (String[] args) {
+	public static void main (String[] args) {
 
 		String[] classnames = {"Bob", "Joe", "Billy", "Jill", "Sally", "Daniel", "Jim", "Cliff", "John", "Mary", "Ross", "Emma", "Rooster", "Adidas", "Venkat"};
 
